@@ -1,5 +1,5 @@
 /*   STEP 1   */
-export const leagueID = "790404613395312640"; // your league ID, 2022: 654891993050198016, 2023:790404613395312640,
+export const leagueID = "917185173341655040"; // your league ID, 2022: 654891993050198016, 2023:790404613395312640,
 export const leagueName = "Hotel California Dynasty League";
 export const dues = 100; // (optional) used in template constitution page
 export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
