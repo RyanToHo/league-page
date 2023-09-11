@@ -25,6 +25,7 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 export const managers = [
    {
       "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "managerID": "481142317126774784",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       "name": "Thomas Green",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Minneapolis", // (optional)
@@ -47,6 +48,7 @@ export const managers = [
     },
     {
       "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "managerID": "499794770776813568",
       "name": "Kris Nilsson",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "St. Louis", // (optional)
@@ -69,6 +71,7 @@ export const managers = [
     },
     {
       "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "managerID": "559470397548756992",
       "name": "Alex Rivera",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "St. Louis", // (optional)
@@ -91,6 +94,7 @@ export const managers = [
     },
    {
       "roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "managerID": "559475019287539712",
       "name": "Ryan Tolan-Hoechst",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "St. Louis", // (optional)
@@ -113,6 +117,7 @@ export const managers = [
     },
    {
       "roster": 5,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "managerID": "502597746524418048",
       "name": "Cam Schlemmer",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "St. Louis", // (optional)
@@ -135,6 +140,7 @@ export const managers = [
     },
    {
       "roster": 6,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "managerID": "559495856550035456",
       "name": "Adam Richterkessing",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "St. Louis", // (optional)
@@ -157,6 +163,7 @@ export const managers = [
     },
    {
       "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "managerID": "468519468608253952",
       "name": "Pete Roessla",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Minnesnowta", // (optional)
@@ -179,6 +186,7 @@ export const managers = [
     },
    {
       "roster": 8,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "managerID": "559543236082548736",
       "name": "Jeremy Mossman",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Rent Free in Your Head", // (optional)
@@ -201,6 +209,7 @@ export const managers = [
     },
    {
       "roster": 9,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "managerID": "560525208687181824",
       "name": "Ryan Boger",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "My Couch", // (optional)
@@ -223,6 +232,7 @@ export const managers = [
     },
    {
       "roster": 10,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "managerID": "560539834120470528",
       "name": "Jake Davis",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "St. Louis", // (optional)
