@@ -8,7 +8,7 @@ export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VIT
 /*   STEP 2   */
 export const homepageText = `
   <p>Welcome back everyone to the Hotel California League Website!</p>
-  <p>Feel free to look around, there's plenty of stats to dive through between power rankings, league records and manager pages.</p>
+  <p>We've updated again and there's some really cool stats to dive through like the new rivalry comparisons. There are also still power rankings, league records and manager pages.</p>
   <p>Here's wishing the best to everyone's fantasy teams this year and good luck!</p>
   <p>-RT</p>
 `;
@@ -94,7 +94,7 @@ export const managers = [
       "name": "Ryan Tolan-Hoechst",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "St. Louis", // (optional)
-      "bio": "All right, I've been thinking. When live gives you lemons? Don't make lemonade. Make life take the lemons back! Get mad! I don't want your damn lemons! What am I supposed to do with these?",
+      "bio": "All right, I've been thinking. When life gives you lemons? Don't make lemonade. Make life take the lemons back! Get mad! I don't want your damn lemons! What am I supposed to do with these?",
       "photo": "/managers/rt.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2019, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "buf", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
